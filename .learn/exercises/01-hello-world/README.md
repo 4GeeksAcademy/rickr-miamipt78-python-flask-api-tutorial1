@@ -2,7 +2,7 @@
 
 During this tutorial, we'll be building a REST API using the Python programming language and the [Flask library](https://flask.palletsprojects.com/) (ideal for creating APIs).
 
-But we are going to do it the right way! Following all the good practices, we have to install and learn some things first.
+But we are going to do it the correct way! Following good practice, we will install and learn some things first.
 
 ## 📦 Requirements:
 
